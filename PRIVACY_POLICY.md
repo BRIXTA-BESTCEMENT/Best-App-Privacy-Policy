@@ -2,7 +2,7 @@
 
 **Last updated:** December 03, 2025
 
-This Privacy Policy describes how **Best Cement** ("we," "us," or "our") collects, uses, and shares information about you when you use our mobile application, **Best Workforce** (the "App").
+This Privacy Policy describes how **Best Cement** ("we," "us," or "our") collects, uses, and shares information about you when you use our mobile application, **Best Work Force** (the "App").
 
 This App is intended for use by authorized Salesmen and Technical Sales Employees of Best Cement for internal business operations, including attendance, route tracking, dealer management, and reporting.
 
