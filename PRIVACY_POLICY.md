@@ -1,6 +1,6 @@
 # Privacy Policy for Best Work Force
 
-**Last updated:** December 03, 2025
+**Last updated:** December 20, 2025
 
 This Privacy Policy describes how **Best Cement** ("we," "us," or "our") collects, uses, and shares information about you when you use our mobile application, **Best Work Force** (the "App").
 
@@ -28,6 +28,8 @@ We request access to your device's camera and photo gallery.
 
 ### D. Device and App Information
 * **Device Status:** We collect battery level, charging status, and network connectivity status (as seen in our Geotracking logs) to ensure accurate tracking data.
+* * **Device ID:** We collect the Device SSAID (Android) or Identifier for Vendor (iOS). This is used strictly to enforce our "One User, One Device" security policy and to prevent unauthorized account access from unrecognized hardware.
+#NOTE: ``Before the App accesses background location, we provide a prominent in-app notification explaining why this data is required. You must explicitly grant consent through this disclosure before the system permission is requested.``
 * **App Activity:** We use **Firebase Analytics** to collect data on how you use the app, crash reports, and performance metrics.
 
 ## 2. How We Use Your Information
@@ -57,6 +59,7 @@ The App requests the following permissions on your device:
 * `READ_EXTERNAL_STORAGE` / `READ_MEDIA_IMAGES`: To upload existing photos.
 * `ACTIVITY_RECOGNITION`: To optimize battery usage during tracking.
 * `FOREGROUND_SERVICE`: To ensure data synchronization and tracking continues while the app runs tasks.
+* `FOREGROUND_SERVICE_LOCATION`: To track users' journey while the app is minimized.
 
 ## 5. Data Security
 
