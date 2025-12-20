@@ -28,7 +28,7 @@ We request access to your device's camera and photo gallery.
 
 ### D. Device and App Information
 * **Device Status:** We collect battery level, charging status, and network connectivity status (as seen in our Geotracking logs) to ensure accurate tracking data.
-* * **Device ID:** We collect the Device SSAID (Android) or Identifier for Vendor (iOS). This is used strictly to enforce our "One User, One Device" security policy and to prevent unauthorized account access from unrecognized hardware.
+* **Device ID:** We collect the Device SSAID (Android) or Identifier for Vendor (iOS). This is used strictly to enforce our "One User, One Device" security policy and to prevent unauthorized account access from unrecognized hardware.
 #NOTE: ``Before the App accesses background location, we provide a prominent in-app notification explaining why this data is required. You must explicitly grant consent through this disclosure before the system permission is requested.``
 * **App Activity:** We use **Firebase Analytics** to collect data on how you use the app, crash reports, and performance metrics.
 
